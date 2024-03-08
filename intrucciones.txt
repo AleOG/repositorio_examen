@@ -1,0 +1,16 @@
+1. Enciende el equipo.
+
+2. Desacargar apache
+
+3. Descomprime la carpeta del servidor en C.
+
+4. Abrir la consola cmd en modo administrador.
+
+5. Escribir el comando cd /server/bin.
+
+6. Ejecutar el comando httpd.exe -k install -n "Server2" -f C:\server\httpd.conf
+
+7. Ejecutar el comando httpd.exe -k start -n "Server2"
+
+8. Acceder a la url localhost: 6969 en el navegador
+
